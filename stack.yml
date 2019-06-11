@@ -1,0 +1,4 @@
+Resources:
+  adolfo:
+    Type: 'AWS::S3::Bucket'
+    Properties: {}
